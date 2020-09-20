@@ -647,9 +647,9 @@ Animator:
   m_GameObject: {fileID: 854888862}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 02afa32e6c7591b4aba591ba8804df4c, type: 2}
+  m_Controller: {fileID: 9100000, guid: f5ac57f3fa5537b4aaa4f425a6538ec1, type: 2}
   m_CullingMode: 0
-  m_UpdateMode: 0
+  m_UpdateMode: 2
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_WarningMessage: 
@@ -880,7 +880,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fefa6728c36c7544fabe042cbb7ef22d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelToLoad: MainLevel
+  levelToLoad: LevelSelect
   sceneFader: {fileID: 419101513}
 --- !u!4 &1227088522
 Transform:
@@ -1220,9 +1220,9 @@ Animator:
   m_GameObject: {fileID: 2135670943}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 02afa32e6c7591b4aba591ba8804df4c, type: 2}
+  m_Controller: {fileID: 9100000, guid: f5ac57f3fa5537b4aaa4f425a6538ec1, type: 2}
   m_CullingMode: 0
-  m_UpdateMode: 0
+  m_UpdateMode: 2
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_WarningMessage: 
